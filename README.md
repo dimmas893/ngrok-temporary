@@ -1,1 +1,1 @@
-# ngrok-temporary
+ngrok config add-authtoken 2Chor2O2VkZkUNh310uI3m2zbsy_6CExWcHwDYteLVYeRmAVY
